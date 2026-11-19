@@ -165,9 +165,9 @@ class MSD:
 
 ---
 
-## Vídeo Tutorial de Implementação
+## Vídeo Tutorial de Funcionabilidade
 
-> *[Inserir aqui o link do vídeo demonstrativo de instalação e execução do projeto]*
+https://github.com/user-attachments/assets/11312043-d738-4713-a812-5977470e1b3a
 
 ---
 
