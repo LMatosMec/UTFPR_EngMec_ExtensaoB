@@ -1,0 +1,5 @@
+line-length = 120
+
+[lint]
+# Ignora os avisos sobre o uso do "except Exception" e "raise Exception"
+ignore = ["E722", "BLE001", "TRY002", "EM101", "EM102", "RUF012", "DTZ002", "S110", "RUF010"]
